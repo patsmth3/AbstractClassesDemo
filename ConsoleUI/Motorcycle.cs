@@ -14,7 +14,7 @@ namespace ConsoleUI
         // * Provide the implementations for the abstract methods
         public override void DriveAbstract()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"A motorcycle had 2 wheels and no doors.");
         }
         public override void DriveVirtual()
         {

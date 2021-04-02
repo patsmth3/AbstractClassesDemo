@@ -7,7 +7,7 @@ namespace ConsoleUI
         public Vehicle()
         {
         }
-        public int Year { get; set; } = 1;
+        public int Year { get; set; } = 2000;
         public string Make { get; set; } = "Make";
         public string Model { get; set; } = "Model";
         
